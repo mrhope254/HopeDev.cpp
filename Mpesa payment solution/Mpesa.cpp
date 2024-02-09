@@ -54,7 +54,7 @@
                 
          case 2:
                   cout<<"1. " <<"From Agent"<<endl;
-                  cout<<"1. " <<"From ATM"<<endl;
+                  cout<<"2. " <<"From ATM"<<endl;
                   cin>>wOption;
 
                   //Agent/ATM withdrawal
